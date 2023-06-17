@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.About-Me{
+    margin: 0 auto;
+    width: 800px;
+    padding-left: 40px;
+    height:  1500px;
+    border: 10px solid grey;
+}
+.name{
+    color: red;
+    font-size: 40px;
+}
+.Surname{
+    color: purple;
+    font-size: 40px;
+}
+em{
+    font-size: 40px;
+    color: rgb(129, 127, 255);
+}
+p{
+    font-size: 40px; 
+}
+.img-text{
+    width: 600px;
+    height: 600px;
+    background-size: cover;
+    border-radius: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(./_.jpeg);
+}
+li{
+    font-size: 40px;
+    color: red;
+}
+a{
+    color:  blue;
+    font-size: 50px;
+    text-decoration: underline;
+}
